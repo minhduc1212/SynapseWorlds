@@ -1,4 +1,2 @@
-spacy
-vaderSentiment
-pandas
-networkx
+google-genai
+dotenv

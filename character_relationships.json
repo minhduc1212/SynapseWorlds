@@ -1,0 +1,150 @@
+{     
+  "characters": [
+    {
+      "name": "Ester",
+      "aliases": [
+        "the narrator"
+      ],
+      "description": "An eighteen-year-old apprentice ruhker who survives a manticore attack that killed her family and becomes dedicated to training her roc, Zahra."
+    },
+    {
+      "name": "Zahra",
+      "aliases": [],
+      "description": "A young female roc fledgling, described as brave, calm, and lethal, who is trained by Ester."
+    },
+    {
+      "name": "Babak",
+      "aliases": [
+        "Master of the Royal Mews"
+      ],
+      "description": "The stern, experienced Master of the Mews who manages the rocs and their ruhkers, valuing competence and dedication."
+    },
+    {
+      "name": "Gazsi",
+      "aliases": [
+        "the roc hunter"
+      ],
+      "description": "A scarred, gruff man from the mountain tribes who captures roc fledglings."
+    },
+    {
+      "name": "Nasmin",
+      "aliases": [],
+      "description": "A younger ruhker who is kind and supportive of Ester, acting as a mentor and friend."
+    },
+    {
+      "name": "Darius",
+      "aliases": [],
+      "description": "A quiet, awkward, but highly skilled ruhker who becomes a close friend to Ester and partner in training Zahra."
+    },
+    {
+      "name": "Govad",
+      "aliases": [
+        "Governor Govad"
+      ],
+      "description": "The governor who nominated Ester for the ruhking apprenticeship despite his concerns that it was not a fit life for a woman."
+    },
+    {
+      "name": "Arnan",
+      "aliases": [],
+      "description": "Ester's younger brother, who was killed by a manticore when he was four years old."
+    },
+    {
+      "name": "Ester's Mother",
+      "aliases": [],
+      "description": "A sweet, generous woman who was killed by the manticore attack."
+    },
+    {
+      "name": "Ester's Father",
+      "aliases": [],
+      "description": "A minor landowner who encouraged Ester's interests in animals and falconry, surviving the manticore attack."
+    },
+    {
+      "name": "Minu",
+      "aliases": [],
+      "description": "Darius's adult female roc, a seasoned veteran who is persistent in her hunting."
+    },
+    {
+      "name": "Azar",
+      "aliases": [],
+      "description": "Nasmin's rust-colored roc, a regal and murderous hunter."
+    },
+    {
+      "name": "Antrius the Bold",
+      "aliases": [],
+      "description": "The king of Dartha, to whom the rocs officially belong."
+    },
+    {
+      "name": "Cas",
+      "aliases": [],
+      "description": "A male saker falcon that Ester trained as a girl."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Ester",
+      "target": "Zahra",
+      "relationship_type": "trainer/partner",
+      "description": "Ester trains Zahra through the 'dark days' and subsequent field training, forming a deep, obsessive bond of trust and mutual dependence."
+    },
+    {
+      "source": "Ester",
+      "target": "Nasmin",
+      "relationship_type": "friend/mentor",
+      "description": "Nasmin is one of the few ruhkers who is kind to Ester as an apprentice, offering support and advice."
+    },
+    {
+      "source": "Ester",
+      "target": "Darius",
+      "relationship_type": "friend",
+      "description": "They start as awkward acquaintances and become close friends through their shared obsession with ruhking and mutual training support."
+    },
+    {
+      "source": "Ester",
+      "target": "Ester's Father",
+      "relationship_type": "parent/child",
+      "description": "Her father encouraged her childhood interests, but after the manticore attack, a strained silence and grief-stricken question of why she survived exists between them."
+    },
+    {
+      "source": "Ester",
+      "target": "Ester's Mother",
+      "relationship_type": "parent/child",
+      "description": "Ester had a loving relationship with her mother, who viewed her as a miracle."
+    },
+    {
+      "source": "Ester",
+      "target": "Arnan",
+      "relationship_type": "sibling",
+      "description": "Ester felt a mix of responsibility and occasional resentment toward her brother due to his stubbornness, but loved him."
+    },
+    {
+      "source": "Babak",
+      "target": "Ester",
+      "relationship_type": "mentor/superior",
+      "description": "Babak is Ester's superior and treats her with a blunt, professional equanimity."
+    },
+    {
+      "source": "Darius",
+      "target": "Minu",
+      "relationship_type": "trainer/partner",
+      "description": "Darius has a deep, intimate bond with Minu, treating her with a parental-like affection."
+    },
+    {
+      "source": "Nasmin",
+      "target": "Azar",
+      "relationship_type": "trainer/partner",
+      "description": "Nasmin and Azar are a powerful hunting pair."
+    },
+    {
+      "source": "Babak",
+      "target": "Gazsi",
+      "relationship_type": "professional",
+      "description": "Babak pays Gazsi for the capture of roc fledglings."
+    },
+    {
+      "source": "Govad",
+      "target": "Ester",
+      "relationship_type": "mentor/superior",
+      "description": "Govad nominated Ester for the apprenticeship despite his skepticism."
+    }
+  ]
+}
